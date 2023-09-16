@@ -94,6 +94,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>Zormeister - ALC236 for HP 15s-eq3049AU</string>
+				<key>Id</key>
+				<integer>20</integer>
+				<key>Path</key>
+				<string>layout20.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>JudySL - ALC236 for Lenovo Air 13 IML(S530-13IML)</string>
 				<key>Id</key>
 				<integer>23</integer>
@@ -214,6 +222,14 @@
 				<integer>19</integer>
 				<key>Path</key>
 				<string>Platforms19.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Zormeister - ALC236 for HP 15s-eq3049AU</string>
+				<key>Id</key>
+				<integer>20</integer>
+				<key>Path</key>
+				<string>Platforms20.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
