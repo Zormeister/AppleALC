@@ -485,13 +485,13 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Find</key>
-				<data>PQIQAAAPhA==</data>
+				<data>DgAAvgIAAABIid8=</data>
 				<key>MinKernel</key>
 				<integer>24</integer>
 				<key>Name</key>
 				<string>AppleHDAController</string>
 				<key>Replace</key>
-				<data>PSIQAAAPjg==</data>
+				<data>DgAAuHCdAADrBpA=</data>
 			</dict>
 		</array>
 		<key>Vendor</key>
@@ -548,13 +548,13 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Find</key>
-				<data>PQIQAAAPhA==</data>
+				<data>DgAAvgIAAABIid8=</data>
 				<key>MinKernel</key>
 				<integer>24</integer>
 				<key>Name</key>
 				<string>AppleHDAController</string>
 				<key>Replace</key>
-				<data>PSIQAAAPjg==</data>
+				<data>DgAAuHCdAADrBpA=</data>
 			</dict>
 		</array>
 		<key>Vendor</key>
@@ -611,13 +611,13 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Find</key>
-				<data>PQIQAAAPhA==</data>
+				<data>DgAAvgIAAABIid8=</data>
 				<key>MinKernel</key>
 				<integer>24</integer>
 				<key>Name</key>
 				<string>AppleHDAController</string>
 				<key>Replace</key>
-				<data>PSIQAAAPjg==</data>
+				<data>DgAAuHCdAADrBpA=</data>
 			</dict>
 		</array>
 		<key>Vendor</key>
